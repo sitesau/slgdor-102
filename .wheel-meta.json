@@ -1,0 +1,16 @@
+{
+  "wheel_id": 0,
+  "slug": "slgdor-102",
+  "project": "garage-door-spring-replacement-ipswich",
+  "parent_t1_ref": "slgdor-150",
+  "money_target": "https://www.springfieldlakesgaragedoors.com.au/",
+  "primary_kw": "garage door spring replacement ipswich",
+  "intended_url": "https://garage-door-spring-replacement-ipswich.pages.dev",
+  "links": [
+    {
+      "target_url": "https://garage-door-repairs-springfield-lakes-guide.netlify.app",
+      "anchor": "garage door repairs springfield lakes",
+      "rel": "follow"
+    }
+  ]
+}
